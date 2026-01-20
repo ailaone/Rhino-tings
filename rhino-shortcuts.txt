@@ -1,0 +1,185 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZT '_Zoom_Target
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+S '_Snap
+o offset
+P '_Planar
+m move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+c Curve
+W '_SelWindow
+COn '_CurvatureGraph
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _AdvancedSettings
+DisplayAttrsMgr ! _OptionsPage _DisplayModes
+Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+Vectorize ! _-PackageManager _Search Vectorize
+ZET '_Zoom _All _Extents
+ZST '_Zoom _All _Selected
+D ! _Move
+A _Undo
+r rotate
+F '_SelWindow
+GestionnaireModules ! _OptionsPage _PlugIns
+AffichageAvancé ! _OptionsPage _AdvancedSettings
+GestionnaireAffichage ! _OptionsPage _AdvancedSettings
+pn _Plane
+fi fillet
+AffichageAvancÃ© ! _OptionsPage _AdvancedSettings
+sec section
+pl polyline
+j join
+di distance
+mi mirror
+tr trim
+x explode
+gr group
+ro rotate
+sc scale
+sc1 scale1d
+sc2 scale2d
+ex extend
+l line
+ci circle
+rec rectangle
+bo box
+sp Split
+de dupedge
+cl changelayer
+ec extrude
+la layer
+r3 rotate3d
+re rebuild
+co copy
+ps planarsrf
+rev revolve
+ar array
+tp taper
+lk lock
+ch chamfer
+po arraypolar
+ct contour
+da dimaligned
+es extrudesrf
+ep EvaluatePt
+cd changedegree
+mv move vertical
+sls selsrf
+slc selcrv
+ms mergesrf
+bls blendsrf
+aa Area
+db _DupBorder
+lo loft
+sk _ShrinkTrimmedSrf
+ik InsertKnot
+pi pipe
+o3 orient3pt
+sf SrfPt
+DL DUPLAYER
+xn extractcontrolpolygon
+bc box _center
+et editText
+H HIDE
+ic InterpCrv
+cns ConnectSrf
+exs ExtendSrf
+exts ExtendTrimmedSrf
+mes mesh
+mn MeshToNURB
+xi ExtractIsocurve
+sld SelDup
+slm SelMesh
+slps SelPolysrf
+slp SelPt
+slpc SelPtCloud
+me moveedge
+mf MoveFace
+pr Project
+pu Pull
+pc ProjectToCPlane
+fie FilletEdge
+syv SynchronizeViews
+syc SynchronizeCPlanes
+ls LayerStateManager
+pt point
+pts points
+cpo _CPlane _object
+dm _DeleteMeshFaces
+fe FilletEdge
+fs FilletSrf
+pf PatchSingleFace
+deg CullDegenerateMeshFaces
+xw ExtractWireframe
+mbd MeshBooleanDifference
+cm CheckMesh
+cn Connect
+se ShowEdges
+fl Flip
+ut Untrim
+2d make2d
+gv GradientView
+ml MatchLayer
+cpw _CPlane _ World _Top
+dr DragMode
+os OffsetSrf
+om OffsetMesh
+mtr MeshTrim
+slsc SelShortCrv
+rv rectangle vertical
+pnv Plane vertical
+pn3 plane  3Point
+spf SplitFace
+lv line vertical
+rec3 rectangle 3point
+e extrude
+MBU MeshBooleanUnion
+xp ExtractPt
+fv _NewFloatingViewport _Projection _Perspective
+SUV dir swapuv enter
+pm _PerspectiveMatch
+mb MeshBox
+in invert hide
+ih invert hide
+pg purge
+ics interpCrvOnSrf
+msf 3DFace
+we _WeldEdge
+vt ! _ViewportTabs _Toggle _Enter
+DivideCurveDashed _-RunScript (DivideCurveDashed)
+is IncrementalSave
+sw1 Sweep1
+sw2 Sweep2
+hs HideSwap
+xx _extrudecrv
+xxx _ExtrudeSrf
+dfb DupFaceBorder
+exsr ExtendSrf
+pv plane vertical
+ZZZ _TestZBiasFactor
+ProjectPersp _-Runscript (ProjectPersp)
+ww _SetDisplayMode _Mode _Wireframe
+GH Grasshopper
+ll Lock
+lll LockSwap
+daa DraftAngleAnalysis
+lok Lock
+llok LockSwap
+ee Export
+pp PushPull
+cc Crease
+ccc RemoveCrease
+cccc SubDCrease
+ew ExtractWireframe
+mm MatchProperties
+cb CurveBoolean
+fc FilletCorners
+ff Fillet
+ss SaveAs
